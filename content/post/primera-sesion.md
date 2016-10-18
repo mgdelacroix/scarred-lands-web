@@ -1,6 +1,6 @@
 +++
 title = "Primera Sesión"
-draft = true
+draft = false
 date = "2016-10-18T17:13:49Z"
 
 +++
