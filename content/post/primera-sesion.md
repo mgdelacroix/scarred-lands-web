@@ -104,3 +104,42 @@ Un escalofrío recorre el cuerpo de Ardad y comienza a sentir vergüenza, como s
 Yuri interviene diciendo que él conoce bien los bosques y que son peligrosos.
 
   > _¿Por qué creéis que os hemos reunido aquí? Yuri, tu eres bueno cazando y serás capaz de proveer al grupo de alimento. Kyn es diestro con la espada, muy útil en batalla. Pimpernell es un buen embajador, valioso a la hora de hacer amigos. Ardad es habilidoso en... digamos... la recuperación de objetos propios y ajenos. Por último, Shinju trae consigo el don de la magia, y convierte el grupo en respetable._
+
+  > _Consideramos que sois la solución al futuro Quinto Asedio, aunque vuestra misión **no es evitarlo**. Tampoco sois los primeros, he de decir; dos grupos lo intentaron antes que vosotros, pero los dos fracasaron. El primero no fue lo suficientemente creíble. El segundo no fue lo suficientemente fuerte. El tercero... el tercero deberá ser ambos._
+  
+El nigromante hace una pausa, y por un momento parece que se hubiera parado a saborear la genialidad del plan de su maestro. Alza un papel con la mano y se dirige de nuevo a los aventureros:
+
+  > _La forma de conseguir que el tercer grupo de aventureros triunfe donde los dos anteriores fracasaron es esta. Vais a ser exiliados de Hollowfaust. Evidentemente, este exilio se realizará con nuestro consentimiento, y no vais a salir precisamente por la Primera Puerta. ¿Quién sale por la Primera Puerta?_
+  
+  > _No. Saldréis huyendo por el Barrio de los Fantasmas. El objetivo es hacer de vuestra huida algo creible. Si sobrevivís es porque sois lo suficientemente fuertes, y si no... no habremos malgastado muchas energías._
+  
+  - "¿Cómo vamos a matar fantasmas? ¡El metal no les atraviesa!" - exclamó Pimpernell, visiblemente afectado por la noticia. 
+  - "Lo haremos creíble pero no imposible. Nos aseguraremos de que aquellos que salgan a vuestro encuentro sean de la calaña a la que podéis dar muerte. Es como una obra de teatro, Pimpernell, y a ti se te da bien actuar..."
+  
+El nigromante prosigue con su explicación, y detalla como una vez estén fuera de Hollowfaust deberán dirigirse al Bosque Cuerno de Sierra. Allí se encuentra Hase, lider de los nigromantes exiliados, y con él se hallan una serie de objetos mágicos de los que él y sus hombres piensan valerse para atacar Hollowfaust. La misión del grupo será localizar dichos objetos y sustituirlos por otros carentes de poder sin que Hase y los suyos se den cuenta, y por el camino, si fuera posible, ganarse su confianza. Es muy importante que Hase tenga total seguridad en su victoria antes del ataque; el objetivo no es aplastarlos sino dejar que vengan creyendo que pueden con nosotros, y aprovechar entonces la ventaja.
+
+Los aventureros no portarán los objetos falsos desde un inicio, sino que les serán entregados a su debido tiempo por aliados de la causa. Estos aliados se identificarán porque portarán el token de uno de los aventureros, que les será sustraído antes de que de comienzo su exilio.
+
+Una vez termina con sus explicaciones, el nigromante pregunta a cada miembro del grupo qué desea a cambio de sus servicios.
+
+Yuri desea un destacamento armado para poder atacar a un elfo, una misión personal completamente ajena a Hollowfaust. El nigromante le ofrece un destacamento de no muertos si completa con éxito aquello que se le ha solicitado.
+
+Ardad quiere dinero, equipo y permiso para matar a uno de los protegidos de Hollowfaust. "Se lo que buscas, no puedo prometer nada, pero lo veo posible. Complicado, pero posible".
+
+Kyn desea poder. El nigromante se interesa ante una petición tan directa, "¿y qué harías con ese poder?". "Utilizarlo. Se exactamente dónde y contra quién, solo necesito tener la capacidad, y es lo que quiero a cambio de mis servicios".
+
+Shinju quiere conocimiento, acceso al tercer círculo. El nigromante se muestra interesado, "quizá la sociedad de animadores pueda encontrarte útil".
+
+Pimpernell pregunta si tras la misión, el equipo recuperará su estatus de ciudadanos de Hollowfaust, y el nigromante lo niega; no habrá reconocimiento público por parte de la ciudad ni de sus habitantes, pues rápidamente llegaría a oidos de sus enemigos. La misión terminará cuando los aventureros vuelvan a tener audiencia con Kurva y este les diga que ya no son útiles para Hollowfaust. Por último, el nigromante les solicita una prueba de su compromiso, un juramento. La misión solamente se llevará a cabo si todos los miembros del grupo juran lealtad a la causa y se comprometen con ella. El grupo accede, y uno a uno todos los miembros realizan el juramento.
+
+Antes de dar por terminada la audiencia, Shinju pregunta por la posibilidad de obtener equipo antes de comenzar la misión. "No tratéis esto conmigo, acudid a uno de los templos de la ciudad durante el día de mañana y pedid ayuda. No esperéis gran cosa, pero aquello que sea verosimil, puede que os lo proporcionen".
+
+  > _Hemos terminado, ahora os acompañarán a la salida. Espero que cumpláis con vuestro juramento, y espero que viváis para cumplirlo. No habléis esto con nadie... y buena suerte._
+
+La puerta está abierta, y tras ella se encuentra el anciano, que acompaña a los aventureros hasta la salida. Una vez fuera de la gruta, aun acompañados por el hombrecillo de la túnica, el grupo aun nota esa brisa de aire frío, penetrante, agobiándoles con cada paso. Ese agobio va creciendo, y se transforma de repente en una fuerte presión en la espalda. Kyn se da la vuelta enfrentándose a la Tercera Puerta, y nota como la presión de su espalda se traslada al pecho. Tras unos segundos, la presión crece de golpe convirtiéndose en un fuerte dolor punzante... y entonces nada. Ardad se gira hacia el anciano y le pregunta por el dolor que acaba de sentir. "Varlloy observa" - contesta el anciano mientras se da la vuelta y comienza a andar hacia la Tercera Puerta - "Varlloy observa...". Shinju siente una presencia mágica, que transmite un aura casi tangible que les rodea.
+
+En el preciso instante en el que la puerta del Underfaust se cierra con un golpe sordo, el silencio que reinaba alrededor del grupo se rompe y la ciudad vuelve a la vida de repente. Son las horas previas al toque de queda, la guardia ha empezado a patrullar y pide el token a todo aquel con quien se cruza.
+
+Shinju sugiere que dado que somos compañeros forzosos, lo mejor que podemos hacer es colaborar e intentar llevarnos bien, idea con la que el resto del grupo está de acuerdo. Ardad se ofrece a invitar al grupo a cenar y descansar en la taberna del Peregrino Cansado y todos ponen rumbo hacia allí. Poco antes de llegar, la dueña, en cuanto ve a Pimpernell a lo lejos, sale del establecimiento gritándole para que vuelva dentro a hacer su trabajo. Pimpernell reacciona molesto, "¡Ya voy! ¡no me estaba escaqueando! ¡me llevaron contra mi voluntad!". El resto del grupo se sienta en una mesa y charla un rato en un intento de conocerse un poco mejor. Pimpernell no tarda en llegar con bebida para todos, y los aventureros comen animadamente mientras comparten historias hasta que escuchan fuera la campana que anuncia el toque de queda.
+
+Ardad paga la ronda, y Pimpernell anuncia que solo queda una cama en la posada. Los aventureros acuerdan reunirse al día siguiente en la posada para ir a uno de los templos de la ciudad, guiados por Ardad. Se despiden y se marchan cada uno a descansar a sus distintas posadas. Justo antes de dormir, escuchan el paso de la guardia nocturna patrullando las calles, con un ritmo seco, constante, que transmite poder, disciplina, y la certeza de que nadie con malas intenciones estará a salvo esa noche.
