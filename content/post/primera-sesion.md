@@ -9,6 +9,8 @@ date = "2016-10-18T17:13:49Z"
 
 Nuestro relato comienza un día cualquiera en Hollowfaust, Ciudad de los Nigromantes. Los personajes de esta historia están disfrutando de la vida en lo que sería el "Alto Faust", donde la población tiene dinero y disfruta de los placeres de una rutina relajada. Esta seguridad y confort tienen un precio, y es que todo el mundo se mueve por la ciudad llevando un "token" consigo que les identifica como ciudadanos de Hollowfaust. Si la guardia echa el guante a cualquiera que no lleve encima su "token", le arrestaría sin dudarlo en pos del bien común.
 
+![](/images/welcome-to-hollowfaust.jpg)
+
 En Hollowfaust la convivencia es buena gracias a que hay consenso social sobre un conjunto de normas que la mayoría de sus ciudadanos respetan y vigilan. Esto no quiere decir que no haya robos, crímenes y todo un sustrato de la ciudad que se alimenta de transgredir dichas normas, pero la inmensa mayoría está a gusto cumpliendolas y obedeciendo a la autoridad que las hace cumplir.
 
 Nuestros personajes están entregados a sus distintos quehaceres cuando les sobreviene un encuentro con el que no contaban.
@@ -66,6 +68,8 @@ Uno a uno, los aventureros van llegando a la tercera puerta de Hollowfaust escol
 
 Ante ellos se alza la tercera puerta, una fortaleza de dos torres enorme, imbuida de un halo de fuerza que parece competir con el desgaste de los años. La puerta principal de la fortaleza no tarda en abrirse una vez los aventureros están reunidos. Tras ella, un camino desciende hacia las entrañas del volcán que hay debajo, perdiéndose en la negrura más absoluta tras avanzar unos metros. Al alzarse la puerta, los aventureros escuchan dos tipos de gemidos: los de las cadenas al soportar el peso del metal y el roble, y los de aquellos que están tirando de ellas. Al fondo del camino, una figura se acerca lentamente hacia ellos.
 
+![](/images/underfaust.jpeg)
+
   - "¿Nos van a comer?" - pregunta Pimpernell a Ardad.
   - "No"
   - "Y ¿cuánto nos va a costar salir de esta?"
@@ -75,6 +79,8 @@ Ardad aguarda unos segundos antes de dar la respuesta. "No lo se".
 La figura se trasnforma poco a poco en un hombre viejo, que casi se arrastra en lugar de andar, hacia los personajes. Es bajito, tendrá la altura de Pimpernell más o menos, y anda doblado, como hundido bajo el peso de un dolor constante. De la gruta sale también una brisa fresca, penetrante, que inquieta a los aventureros y aplasta la túnica del anciano contra su delgado cuerpo, casi permitiendo contar los huesos de sus maltrechas costillas. Pese a su condición de anciano y su aparente debilidad, el hombre se mueve con firmeza y decisión, como queriendo ignorar los pesares de su edad.
 
 Al llegar frente a los aventureros, el hombre se detiene. Levanta la vista y bajo la capucha de la túnica se distinguen sus ojos pequeños y brillantes. "Bien... así que habéis venido. Seguidme". El camino que desciende hacia la montaña da paso a un complejo de túneles y grutas iluminadas por antorchas de distintas tonalidades. De cuando en cuando se escuchan, perdidos en el laberinto de pasillos subterráneos, aullidos de dolor, gritos de lamento y gruñidos quejumbrosos. Nerviosos, los aventureros distinguen en alguna ocasión, en algún pasillo a lo lejos, figuras y sombras de discípulos que caminan u observan en la distancia.
+
+![](/images/acolyte.jpg)
 
 Al principio del camino había guardias apostados en las esquinas y a lo largo de las grutas, pero según los aventureros se adentran en la montaña, cada vez hay menos, hasta que desaparecen por completo. En algunos de los pasillos hay libros en el suelo, notas de algún discípulo y pergaminos con runas esbozadas. Tras descender por la que sería la arteria principal del complejo, los aventureros llegan a un espacio más amplio, del que salen muchas otras grutas, arriba y abajo. El anciano se para delante de un portón de madera espectacular, con refuerzos muy bellos y un grabado que los personajes son incapaces de identificar.
 
@@ -143,3 +149,9 @@ En el preciso instante en el que la puerta del Underfaust se cierra con un golpe
 Shinju sugiere que dado que somos compañeros forzosos, lo mejor que podemos hacer es colaborar e intentar llevarnos bien, idea con la que el resto del grupo está de acuerdo. Ardad se ofrece a invitar al grupo a cenar y descansar en la taberna del Peregrino Cansado y todos ponen rumbo hacia allí. Poco antes de llegar, la dueña, en cuanto ve a Pimpernell a lo lejos, sale del establecimiento gritándole para que vuelva dentro a hacer su trabajo. Pimpernell reacciona molesto, "¡Ya voy! ¡no me estaba escaqueando! ¡me llevaron contra mi voluntad!". El resto del grupo se sienta en una mesa y charla un rato en un intento de conocerse un poco mejor. Pimpernell no tarda en llegar con bebida para todos, y los aventureros comen animadamente mientras comparten historias hasta que escuchan fuera la campana que anuncia el toque de queda.
 
 Ardad paga la ronda, y Pimpernell anuncia que solo queda una cama en la posada. Los aventureros acuerdan reunirse al día siguiente en la posada para ir a uno de los templos de la ciudad, guiados por Ardad. Se despiden y se marchan cada uno a descansar a sus distintas posadas. Justo antes de dormir, escuchan el paso de la guardia nocturna patrullando las calles, con un ritmo seco, constante, que transmite poder, disciplina, y la certeza de que nadie con malas intenciones estará a salvo esa noche.
+
+## La calma que precede a la tormenta
+
+To be written
+
+![](/images/runic-daggers.jpg)
