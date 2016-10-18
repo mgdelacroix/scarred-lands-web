@@ -73,3 +73,34 @@ Ante ellos se alza la tercera puerta, una fortaleza de dos torres enorme, imbuid
 Ardad aguarda unos segundos antes de dar la respuesta. "No lo se".
 
 La figura se trasnforma poco a poco en un hombre viejo, que casi se arrastra en lugar de andar, hacia los personajes. Es bajito, tendrá la altura de Pimpernell más o menos, y anda doblado, como hundido bajo el peso de un dolor constante. De la gruta sale también una brisa fresca, penetrante, que inquieta a los aventureros y aplasta la túnica del anciano contra su delgado cuerpo, casi permitiendo contar los huesos de sus maltrechas costillas. Pese a su condición de anciano y su aparente debilidad, el hombre se mueve con firmeza y decisión, como queriendo ignorar los pesares de su edad.
+
+Al llegar frente a los aventureros, el hombre se detiene. Levanta la vista y bajo la capucha de la túnica se distinguen sus ojos pequeños y brillantes. "Bien... así que habéis venido. Seguidme". El camino que desciende hacia la montaña da paso a un complejo de túneles y grutas iluminadas por antorchas de distintas tonalidades. De cuando en cuando se escuchan, perdidos en el laberinto de pasillos subterráneos, aullidos de dolor, gritos de lamento y gruñidos quejumbrosos. Nerviosos, los aventureros distinguen en alguna ocasión, en algún pasillo a lo lejos, figuras y sombras de discípulos que caminan u observan en la distancia.
+
+Al principio del camino había guardias apostados en las esquinas y a lo largo de las grutas, pero según los aventureros se adentran en la montaña, cada vez hay menos, hasta que desaparecen por completo. En algunos de los pasillos hay libros en el suelo, notas de algún discípulo y pergaminos con runas esbozadas. Tras descender por la que sería la arteria principal del complejo, los aventureros llegan a un espacio más amplio, del que salen muchas otras grutas, arriba y abajo. El anciano se para delante de un portón de madera espectacular, con refuerzos muy bellos y un grabado que los personajes son incapaces de identificar.
+
+Shinju y Yuri, al detenerse en la sala, ven a lo lejos otras seis puertas. En total son siete, siete puertas para siete peregrinos, como los nigromantes que tiempo atrás fundaron Hollowfaust. Si sus suposiciones son ciertas, detrás del portón les estaría esperando uno de los siete. Tras un breve silencio, la puerta comienza a abrirse sola, y da paso a una habitación con cinco sillas situadas en forma de semicírculo, tras las cuales hay una mesa de madera con un espectacular grabado de un dragón.
+
+Tras la mesa les espera una figura erguida, que les está dando la espalda. Las velas situadas en los laterales de la estancia apenan iluminan el espacio y perfilan al hombre, mientras que un par de luces sobre la mesa hacen brillar el grabado del dragón y un montón de papeles con extraños grabados de figuras geométricas.
+
+El anciano ofrece entrar al grupo, y una vez han entrado, la puerta se cierra tras ellos, y los aventureros escuchan cómo los pasos del anciano se alejan de la puerta, perdiéndose en la lejanía. La figura de detrás de la mesa se da la vuelta y se enfrenta a los aventureros, examinándoles con la mirada, tranquila pero firme. Viste con los ropajes negros habituales de los nigromantes, tiene el rostro chupado, y todo en él irradia un magnetismo extraño. Tras unos segundos esboza lo que parece una sonrisa y se dirige a los personajes.
+
+Se presenta como Kurva, discípulo de **?**, y les explica que les ha convocado para asegurarse de que cumplen una de las más importantes misiones para Hollowfaust, si no la que más: la protección de la ciudad. Toma asiento tras su mesa, y ofrece asiento al grupo, cuyos miembros aceptan de mala manera a excepción de Yuri, que prefiere quedarse de pie.
+
+> _Hace 25 años Hollowfaust sufrió lo que los ignorantes llaman El Cuarto Asedio. **?** atacó con increíble fuerza la ciudad. Algunos de vosotros ya sabéis lo que sucedió; los nigromantes al séptimo día se vieron obligados a llamar al dragón **?**, que acabó con la vida de **?** y aplastó sus huestes._
+
+> _Se avecina El Quinto Asedio, y como en la tradición de Hollowfaust está la prevención, os hemos convocado. Vuestra colaboración puede ser muy necesaria para tomar la ventaja en esta ocasión_
+
+En cuanto Kurva finaliza su relato, Shinju se ofrece gustoso a ayudar a invocar de nuevo al dragón. Kurva sonríe y niega con la cabeza. "Esta vez no es la solución, pero puede que algo relacionado con el dragón te espere en un futuro cercano...". Prosige contándole al grupo que la amenaza proviene del desierto y del Bosque Cuerno de Sierra. "Los Sutak son un aliado a tener en cuenta, y en esta ocasión están comandados por exiliados nigromantes".
+
+Su Señor Varlloy ha sido elegido por Los Siete para que, sin que los exiliados lo sepan, les debilitemos antes de que tengan la oportunidad de atacar. "Varlloy El No Muerto, Varlloy El Bello es el que está detrás de esta audaz estrategia, y a Varlloy no se le discute nada". El bosque, que antaño fue bello, es ahora una maraña de árboles terrorífica, corrompida por la sangre de Los Titanes.
+
+En ese momento, Ardad interrumpe el discurso del nigromante.
+
+  - "Muchas palabras y poco dinero. ¿Cuánto nos vais a pagar?"
+  - "¡Calla!" - grita el nigromante, visiblemente molesto.
+  
+Un escalofrío recorre el cuerpo de Ardad y comienza a sentir vergüenza, como si hubiera hablado fuera de lugar. El resto del grupo percibe una especie de fuerza que emana del nigromante y le da convicción e incita a quien le contempla a tratarle con el más absoluto respeto. Shinju identifica rápidamente una alta concentración de maná alrededor del nigromante y se sorprende de lo rápido y preciso que ha sido al congregarlo. Identifica el sortilegio como Palabra de Poder.
+
+Yuri interviene diciendo que él conoce bien los bosques y que son peligrosos.
+
+  > _¿Por qué creéis que os hemos reunido aquí? Yuri, tu eres bueno cazando y serás capaz de proveer al grupo de alimento. Kyn es diestro con la espada, muy útil en batalla. Pimpernell es un buen embajador, valioso a la hora de hacer amigos. Ardad es habilidoso en... digamos... la recuperación de objetos propios y ajenos. Por último, Shinju trae consigo el don de la magia, y convierte el grupo en respetable._
