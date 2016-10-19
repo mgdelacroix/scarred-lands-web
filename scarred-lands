@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 IMAGE_NAME=scarred-lands
+GIT_REMOTE=origin
 
 function build-image {
     docker build --rm -t $IMAGE_NAME docker/
@@ -35,8 +36,18 @@ function generate-site {
            hugo
 }
 
+function commit-public {
+    git add public
+    git commit
+    git push
+}
+
+function publish-site {
+    git subtree push --prefix=public $GIT_REMOTE gh-pages
+}
+
 function usage {
-    echo "USAGE: $0 [ build | server | enter | generate ]"
+    echo "USAGE: $0 [ build | server | enter | generate | publish ]"
 }
 
 case $1 in
@@ -51,6 +62,11 @@ case $1 in
         ;;
     generate)
         generate-site
+        ;;
+    publish)
+        generate-site
+        commit-public
+        publish-site
         ;;
     *)
         usage

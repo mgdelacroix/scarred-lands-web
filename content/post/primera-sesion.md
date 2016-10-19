@@ -17,11 +17,11 @@ Nuestros personajes están entregados a sus distintos quehaceres cuando les sobr
 
 ### Ardad
 
-Ardad se encuentra disfrutando de una cerveza templada en "El Peregrino Cansado cuando se acercan a él tres hombres de aspecto fiero y disciplinado, armados y vestidos como guardias pertenecientes a algún tipo de orden. En cuanto les ve avanzar directos hacia él, con la mirada fija, busca en ellos algún gesto de complicidad, un guiño, alguna variación en la expresión o en la forma de moverse que le indique que le reconocen como un amigo... nada.
+Ardad se encuentra disfrutando de una cerveza templada en "El Peregrino Cansado cuando se acercan a él tres hombres de aspecto fiero y disciplinado, armados y vestidos como guardias pertenecientes a algún tipo de orden. En cuanto les ve avanzar directos hacia él con la mirada fija, busca en ellos algún gesto de complicidad, un guiño, alguna variación en la expresión o en la forma de moverse que le indique que le reconocen como un amigo... nada.
 
 Comienza a ponerse nervioso. "¿Qué querrán de mi?". Los guardias se detienen frente a él y le preguntan por su nombre. Definitivamente no le conocen. Le cuentan que se requiere su presencia en la tercera puerta de Hollowfaust y le invitan a acompañarles.
 
-Ardad se revuelve, "ya he pagado sobradamente mi deuda con esta ciudad, no tengo por qué acompañaros a ninguna parte". Los guardias, con gesto decidido y firme, le recuerdan que no es una petición que uno pueda rechazar fácilmente, y Ardad finalmente accede.
+Ardad se revuelve, "ya he pagado sobradamente mi deuda con esta ciudad, no tengo por qué acompañaros a ninguna parte". Los guardias, con gesto decidido y firme, le recuerdan que no es una petición que uno pueda rechazar fácilmente, y él finalmente accede.
 
 ### Pimpernell
 
