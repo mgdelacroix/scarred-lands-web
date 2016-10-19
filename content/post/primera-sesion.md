@@ -2,6 +2,7 @@
 title = "Primera Sesión"
 draft = false
 date = "2016-10-18T17:13:49Z"
+image = "/images/underfaust.jpeg"
 
 +++
 
@@ -67,8 +68,6 @@ Tenía delante a soldados perfectamente entrenados, y hace falta un muy buen mot
 Uno a uno, los aventureros van llegando a la tercera puerta de Hollowfaust escoltados cada uno por su séquito de la guardia. En el momento en el que Ardad reconoce a Pimpernell, se acerca a él y le dedica un "maldito cabrón" a modo de saludo. Shinju y Kyn, que también son conocidos, intercambian una mirada que no transmite confianza, pero en la que se reconocen el uno al otro como aliados.
 
 Ante ellos se alza la tercera puerta, una fortaleza de dos torres enorme, imbuida de un halo de fuerza que parece competir con el desgaste de los años. La puerta principal de la fortaleza no tarda en abrirse una vez los aventureros están reunidos. Tras ella, un camino desciende hacia las entrañas del volcán que hay debajo, perdiéndose en la negrura más absoluta tras avanzar unos metros. Al alzarse la puerta, los aventureros escuchan dos tipos de gemidos: los de las cadenas al soportar el peso del metal y el roble, y los de aquellos que están tirando de ellas. Al fondo del camino, una figura se acerca lentamente hacia ellos.
-
-![](/images/underfaust.jpeg)
 
   - "¿Nos van a comer?" - pregunta Pimpernell a Ardad.
   - "No"
