@@ -23,3 +23,13 @@ To be able to generate the site, the docker image needs to be built. To generate
 ```sh
 ./scarred-lands generate
 ```
+
+## Publish the static site
+
+Once you've modified any post, if you want to publish the site, you can use
+
+```sh
+./scarred-lands publish
+```
+
+to generate the static files, commit them to the repository and upload them to the remote
