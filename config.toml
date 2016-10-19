@@ -1,8 +1,14 @@
 baseurl = "http://mgdelacroix.es/scarred-lands-web/"
 title = "Scarred Lands"
-languageCode = "es-es"
-theme = "heather-hugo"
+languageCode = "es-ES"
+paginate = 5
+Copyright = ""
+theme = "casper"
 canonifyurls = true
 
 [params]
   description = "Crónica de una partida de rol"
+  cover = "/images/underfaust.jpeg"
+  author = "Miguel de la Cruz"
+  hideHUGOSupport = true
+  share = false
