@@ -7,7 +7,7 @@ theme = "casper"
 canonifyurls = true
 
 [params]
-  description = "Crónica de una partida de rol"
+  description = "Crónica de una aventura de rol"
   cover = "/images/underfaust.jpeg"
   author = "Miguel de la Cruz"
   hideHUGOSupport = true
