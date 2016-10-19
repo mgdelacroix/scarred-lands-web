@@ -3,3 +3,6 @@ title = "Scarred Lands"
 languageCode = "es-es"
 theme = "heather-hugo"
 canonifyurls = true
+
+[params]
+  description = "Crónica de una partida de rol"
