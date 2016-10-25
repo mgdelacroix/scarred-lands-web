@@ -1,7 +1,7 @@
 +++
 title = "Primera Sesión"
 draft = false
-date = "2016-10-18T17:13:49Z"
+date = "2016-10-18T12:00:00Z"
 image = "/images/underfaust.jpeg"
 
 +++
@@ -108,9 +108,9 @@ Un escalofrío recorre el cuerpo de Ardad y comienza a sentir vergüenza, como s
 
 Yuri interviene diciendo que él conoce bien los bosques y que son peligrosos.
 
-  > _¿Por qué creéis que os hemos reunido aquí? Yuri, tu eres bueno cazando y serás capaz de proveer al grupo de alimento. Kyn es diestro con la espada, muy útil en batalla. Pimpernell es un buen embajador, valioso a la hora de hacer amigos. Ardad es habilidoso en... digamos... la recuperación de objetos propios y ajenos. Por último, Shinju trae consigo el don de la magia, y convierte el grupo en respetable._
+> _¿Por qué creéis que os hemos reunido aquí? Yuri, tu eres bueno cazando y serás capaz de proveer al grupo de alimento. Kyn es diestro con la espada, muy útil en batalla. Pimpernell es un buen embajador, valioso a la hora de hacer amigos. Ardad es habilidoso en... digamos... la recuperación de objetos propios y ajenos. Por último, Shinju trae consigo el don de la magia, y convierte el grupo en respetable._
 
-  > _Consideramos que sois la solución al futuro Quinto Asedio, aunque vuestra misión **no es evitarlo**. Tampoco sois los primeros, he de decir; dos grupos lo intentaron antes que vosotros, pero los dos fracasaron. El primero no fue lo suficientemente creíble. El segundo no fue lo suficientemente fuerte. El tercero... el tercero deberá ser ambos._
+> _Consideramos que sois la solución al futuro Quinto Asedio, aunque vuestra misión **no es evitarlo**. Tampoco sois los primeros, he de decir; dos grupos lo intentaron antes que vosotros, pero los dos fracasaron. El primero no fue lo suficientemente creíble. El segundo no fue lo suficientemente fuerte. El tercero... el tercero deberá ser ambos._
   
 El nigromante hace una pausa, y por un momento parece que se hubiera parado a saborear la genialidad del plan de su maestro. Alza un papel con la mano y se dirige de nuevo a los aventureros:
 
@@ -151,6 +151,17 @@ Ardad paga la ronda, y Pimpernell anuncia que solo queda una cama en la posada. 
 
 ## La calma que precede a la tormenta
 
-To be written
+A la mañana siguiente, los personajes fueron llegando poco a poco al lugar acordado. Tan pronto como estuvieron todos reunidos, Ardad abrió la marcha hacia el templo **?**. El templo era un edificio humilde al sur del centro de Hollowfaust.
+
+  - Ardad coge las riendas y lleva a los personajes al templo
+  - Les recibe un sacerdote; pequeña descripción
+  - "Ah, sois vosotros", pasan a la "trastienda"
+  - Preguntan por el barrio de los fantasmas y por equipamiento para su misión
+  - Insignias, unguentos y dagas. Algo de dinero.
+  - Enfasis en las dagas.
+  - Pimpernell se sobrepasa y la actitud del sacerdote cambia completamente
+  - Se despiden. Justo antes de dejarles marchar, el sacerdote recuerda
+  - "Ah, se me olvidaba" y les entrega una nota. Les pide discrección, pues la nota entregada podría ser interpretada por algunos como traición.
+  - En la nota puede leerse: "En los próximos dos días, provocad un incidente. Conseguid que os exilien"
 
 ![](/images/runic-daggers.jpg)
