@@ -39,6 +39,10 @@ Ardad se colocó delante de la puerta; sabía que tenía que llamar de una deter
 
   - "¿Ardad? ¿te has olvidado de la combinación o qué? No te preocupes" - dijo dirigiéndose al otro - "viene conmigo".
 
+El hombrecillo abrió la puerta e hizo señas a Ardad para que entrase, mientras le decía "no te puedo estar salvando el culo siempre, ¿eh?". Cuando Pimpernell intentó seguirles, el parroquiano se puso en medio y mirándole desde arriba con gesto firme le dijo "a ti no te conozco, tu te quedas". Él, resignado, se sentó en el primer taburete que vió libre y esperó.
+
+La puerta daba a unas 
+
 ## Reconociendo el terreno
 
   - 
