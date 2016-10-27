@@ -41,7 +41,39 @@ Ardad se colocó delante de la puerta; sabía que tenía que llamar de una deter
 
 El hombrecillo abrió la puerta e hizo señas a Ardad para que entrase, mientras le decía "no te puedo estar salvando el culo siempre, ¿eh?". Cuando Pimpernell intentó seguirles, el parroquiano se puso en medio y mirándole desde arriba con gesto firme le dijo "a ti no te conozco, tu te quedas". Él, resignado, se sentó en el primer taburete que vió libre y esperó.
 
-La puerta daba a unas 
+La puerta daba a unas estrechas escaleras que descendían hasta un sótano únicamente accesible desde esa entrada. El sótano estaba completamente ocupado por un amplio salón con su propia barra, sus propias mesas y asientos, y sus propios parroquianos, algunos conversando animadamente y otros apartados, enfrascados en sus asuntos o símplemente entregados a la bebida o a la contemplación. Ardad reconoció a varios de ellos como ladrones experimentados o estafadores de tres al cuarto con los que se había cruzado anteriormente, e incluso en alguna ocasión, hecho negocios turbios.
+
+Según terminó de descender las escaleras, salió a su encuentro un hombre jóven, delgado, de aspecto cuidado y porte despierto.
+
+  - "¡Ardad! ¡cuanto tiempo amigo! ¿qué es de tu vida?" - le preguntó, entre curioso y divertido - "¿qué te ha hecho bajar de nuevo a este lugar?".
+  - "Hola Hairodda. Pues ya ves, tengo un negocio entre manos en el que quizá tu me puedas ayudar".
+  - "¿Qué dices, Ardad? ¿un negocio? ¿y necesitas mi ayuda? ¿qué negocio es ese? ¿de qué se trata?"
+  - "Estoy buscando a alguien... a un miembro del gremio".
+  - "¿Un miembro del gremio, Ardad? Son gente importante, ya lo sabes. No se si podría saber de alguno, no lo se..."
+  - "Estoy buscando a alguien... accesible, un miembro que haya entrado a un gremio hace poco o que tenga poca influencia".
+  - "No se, Ardad. Un miembro del gremio son palabras mayores. Y, ¿estás solo en esto, Ardad? Alguien tendrá que acompañarte si vas a por un miembro del gremio".
+  - "No estoy solo, Hairodda... ¿crees que podrías conocer a alguien?" - contestó él, esquivando de forma evidente la pregunta. Hairodda se reclinó en su asiento, sonrió para si mismo y levantó la vista hasta cruzarla con la del ladrón.
+  - "Vaya Ardad, me pones en un compromiso... esto que me pides no va a ser barato, es información difícil de conseguir. No cualquiera te contaría algo así, desde luego que no".
+  - "¿De cuánto estamos hablando?"
+  - "Seis monedas, Ardad. La información que me pides te costará seis monedas. Ni una menos".
+  - "Vamos Hairodda, es demasiado, y lo sabes. Solo te pido un nombre y una dirección, no te estoy pidiendo que me acompañes ni que le sigas".
+  - "No se, Ardad, es un miembro del gremio. ¿Sabes lo difícil que es averiguar nada sobre un miembro del gremio? Claro que lo sabes, no eres tonto, Ardad, y yo tampoco lo soy".
+  - "Te doy tres monedas, Hairodda. Es un precio más que justo".
+  - "No es suficiente, tres monedas no son suficientes. ¿Quieres que te regale la información, Ardad? ¿eso quieres? No puedo hacer eso, amigo, no puedo".
+  - "Está bien, amigo, tienes razón. Te doy cuatro monedas. Es más de lo que nadie te va a pagar por un nombre".
+  - "Bueno... vale, Ardad, por los viejos tiempos. No esperes más gestos así de mi parte, Ardad, soy un amigo, no una hermanita de la caridad. Yo como todos los días, Ardad, ¿lo sabes?"
+  - "..."
+  - "¡De acuerdo! ¡conozco a alguien! El hombre que buscas se llama **?** y es miembro del gremio de **?** desde hace poco tiempo. Se dice de él que la experiencia que no tiene la compensa echándole ganas, ya me entiendes. ¿Me entiendes, Ardad? Le encontrarás en la plaza de las Vírgenes Ensangrentadas, allí es donde vive".
+  - "Muchas gracias, Hairodda, es lo que necesitaba" - dijo mientras le entregaba las cuatro monedas.
+  - "Se merecen, Ardad, se merecen".
+
+Con sensación de haber cumplido con su cometido, Ardad subió al piso de arriba, recogió a Pimpernell y se marcharon de vuelta al callejón.
+
+  - "̉¿Qué tal ha ido?"
+  - "Tenemos lo que buscamos".
+  - "¿Cuánto te ha costado?"
+  - "Cuatro monedas".
+  - "Con el resto vamos a medias".
 
 ## Reconociendo el terreno
 
