@@ -77,7 +77,29 @@ Con sensación de haber cumplido con su cometido, Ardad subió al piso de arriba
 
 ## Reconociendo el terreno
 
-  - 
+Cuando se hubieron reunido todos, Ardad relató al resto del grupo su encuentro con Hairodda y cómo, tras mucho esfuerzo, había conseguido que le diese la información a cambio únicamente de seis monedas. Discutieron sus próximos pasos y decidieron que lo mejor sería no llamar mucho la atención, así que Yuri y Shinju irían a buscar la casa de **?** mientras que los demás se quedarían cerca. Ya había pasado el mediodía, así que Pimpernell, Kyn y Ardad se fueron a un antro situado en una de las calles que llegaba hasta la plaza de las Vírgenes Ensangrentadas a comer algo. Buscaron un sitio cerca de la puerta, para poder salir si hubiera algún problema, y tan pronto se hubieron sentado, le pidieron un refrigerio al tabernero.
+
+Shinju y Yuri llegaron a la plaza poco después. Era un recinto amplio, como de unos cincuenta metros de diámetro, rodeado de casas viejas que parecían inclinarse atraídas por el centro. La madera de las casas estaba podrída en su mayoría, y era de un tono cobrizo, igual que el suelo. En el centro de la plaza se alzaba la fuente de las Vírgenes Ensangrentadas, una escultura en marmol blanco que representaba a cuatro mujeres, cada una sujetando un arma distinta y mirando a uno de los cuatro puntos cardinales. Su expresión era fiera, de rabia y enfado, y su boca estaba abierta, gesticulando un furioso grito. Pero en lugar de sonido, lo que emanaba de las bocas de las cuatro vírgenes era sangre. Sangre oscura, densa, caliente, que caía a borbotones manchando el marmol de la estatua, encharcándose en la base y desapareciendo luego para volver a emerger poco después, en un macabro ciclo que nunca cesaba.
+
+En el lado opuesto a la calle por donde habían entrado, Yuri vio una casa que no parecía tan vieja y maltrecha como el resto, así que se fue a investigar. La casa aguantaba dignamente el paso del tiempo, y se notaba que había sido construida mucho después que aquellas que la rodeaban. En la puerta lucía un símbolo circular, con unas llamas en la parte de abajo y una media luna tumbada arriba, que Yuri identificó rápidamente con la insignia del gremio de **?**. Las ventanas estaban cerradas y contraventanas de madera impedían ver lo que había dentro. Yuri fue incapaz de encontrar un solo rastro de luz o algún ruido que indicase que había alguien dentro.
+
+Mientras el explorador investigaba, Shiju se acercó hacia el centro de la plaza, fascinado por la fuente. Comenzó a rodearla, admirando a sus protagonistas, sin acercarse. Algo en aquella escultura le decía que había más de lo que se percibía a simple vista. Su instinto le hizo dudar, pero finalmente decidió acercarse hasta notar el calor del denso líquido abrazándole, y sintió la presencia de un aura mágica que emanaba de la piedra y de la sangre.
+
+Cerró los ojos, intentando percibir la naturaleza de la fuerza mágica; al principio no sintió nada raro, pero de repente el calor se intensificó, formando una niebla que le bloqueó los sentidos. Intentó mantener la compostura, pero la opresión que sentía era demasiado fuerte y surgió tan de repente que no estaba preparado. Abrió los ojos de golpe en un intento de romper el abrazo y sintió un mareo tan fuerte que casi le hace caer al suelo. Retrocedió dos pasos para alejarse de la fuente, y cuando recuperó un poco la compostura se dió cuenta de que tenía pequeñas gotas de sangre, salpicaduras, en la ropa y en las manos.
+
+Detrás suya estaba Yuri, que había acudido preocupado al verle tambalearse.
+
+  - "¿Estás bien?"
+  - "Sí, es solo que... necesito un momento".
+  - "De acuerdo. En cuanto estés listo podemos volver con el resto, creo que ya se donde podemos encontrar a **?**".
+
+En ese instante, la puerta de la casa que Yuri había estado investigando se abrió de golpe, y de ella surgió un hombre alto, de complexión fina, jóven, vestido con una túnica pero con la cabeza al descubierto. Se paró un momento al verles, y retomo la marcha decidido, dirigiéndose directamente hacia ellos. Cuando llegó hasta donde estaban, sin mediar palabra, inspeccionó las insignias que les identificaban como ciudadanos de Hollowfaust y, visiblemente disgustado al comprobar que estaban en regla, se dirigió bruscamente hacia ellos:
+
+  - "¿Qué hacéis aquí? No deberíais estar aquí. Marchaos".
+
+Y sin darles tiempo a reaccionar, con la convicción del que tiene poder suficiente como para saber que le van a obedecer sin discusión alguna, se marchó con la misma convicción y firmeza con la que había venido.
+
+Mientras Shinju digería tanto el mareo como lo que acaba de pasar, Yuri tenía la mirada fija en la figura que se alejaba. "Creo que hemos elegido bien nuestro blanco", apuntó con desdén.
 
 ## Preparación accidentada
 
