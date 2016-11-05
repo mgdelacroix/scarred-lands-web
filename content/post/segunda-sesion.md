@@ -97,10 +97,36 @@ En ese instante, la puerta de la casa que Yuri había estado investigando se abr
 
   - "¿Qué hacéis aquí? No deberíais estar aquí. Marchaos".
 
-Y sin darles tiempo a reaccionar, con la convicción del que tiene poder suficiente como para saber que le van a obedecer sin discusión alguna, se marchó con la misma convicción y firmeza con la que había venido.
+Y sin darles tiempo a reaccionar, con la certeza del que tiene poder suficiente como para saber que le van a obedecer sin discusión alguna, se marchó con la misma convicción y firmeza con la que había venido.
 
-Mientras Shinju digería tanto el mareo como lo que acaba de pasar, Yuri tenía la mirada fija en la figura que se alejaba. "Creo que hemos elegido bien nuestro blanco", apuntó con desdén.
+Mientras Shinju digería tanto el mareo como lo que acaba de pasar, Yuri tenía la mirada fija en la figura que se alejaba. "Creo que hemos elegido bien a nuestro objetivo", apuntó con desdén.
 
 ## Preparación accidentada
 
-  - 
+Shinju y Yuri se reunieron con el resto del grupo y les contaron lo que habían averiguado. Decidieron que lo mejor que podían hacer era esperar a que **?** se marchase y aprovechar para tomar posiciones, vigilar la casa y cuando volviera, cogerle por sorpresa. Con esta idea en mente, esperaron cerca de la plaza hasta que el miembro del gremio se hubo marchado, y tan pronto como le vieron alejarse, tomaron posiciones. 
+
+Shinju se colocó cerca de la fuente, fingiendo estudiarla fascinado por su aura mística; Ardad y Pimpernell comenzaron a jugar a apostar entre ellos cerca de la casa, con un ojo puesto siempre en las calles que daban acceso a la plaza. Kyn se posicionó enfrente de un edificio de la milicia justo en una de las entradas de la plaza, y Yuri se dispuso a trepar por un ruinoso edificio adyacente a la casa de su objetivo, para poder vigilar sin ser visto.
+
+Entró deslizándose por una apertura en la base del edificio, y comenzó a ascender por las maltrechas escaleras hacia el piso de arriba. Con paso cauto, puesto que el suelo estaba desgastado y carcomido por el tiempo y las termitas, fue avanzando poco a poco hasta encontrarse frente a una puerta que daba acceso a la sala principal de la primera planta. Tanteó los goznes y el pomo, tratando de intuir el óxido y saber si podía abrir sin hacer ruido. Comenzó a mover la puerta poco a poco, y viendo que no chirriaba se confió, y terminó de abrir de golpe, haciendo crujir el mecanismo con tal fuerza que resonó por todo el piso. Yuri se encogió de hombros ante el estruendo, tenso, y aguardó unos momentos, esperando una reacción al estruendo provocado. Nada.
+
+Al fondo encontró otras escaleras que ascendían hasta la segunda altura del edificio. Estaban más desgastadas si cabe, con grietas evidentes y algún peldaño ausente incluso, dificultando todavía más el ascenso. Yuri tomó aire y comenzó a subir, poco a poco, midiendo cada paso, cambiando lentamente el peso de una pierna a otra para intuir cualquier crujido en la madera, por leve que fuera. No podía permitirse otro error; aunque no parecía haber nadie en el edificio, quería aprovechar la ventaja de la sorpresa, y bastante ruido había hecho ya...
+
+Hacia el final de las escaleras, se topó con un grupo de escalones podridos de forma evidente. No quería arriesgar, así que decidió saltarlos de una vez. Equilibró su peso, colocó ambos pies en el último escalón sano, no sin antes tantearlo para asegurarse de que soportaba su peso, midió la distancia y la altura, cogió aire, flexionó las piernas y se impulsó con toda su fuerza... y en ese preciso momento, el escalón se hundió bajo sus pies, incapaz de soportar la fuerza del salto, y Yuri cayó completamente erguido hasta quedar encajado entre los escalones anterior y siguiente. Unos metros más abajo, los trozos de madera sobre los que antes se apoyaba caían contra el suelo, haciendo más ruido si cabe. La madera estaba astillada, y comenzaba a clavársele en la espalda y en el pecho. Trató de liberar un brazo para subir a pulso, pero solo consiguió que las astillas se le clavasen más profundamente. Después de meditarlo unos segundos, decidió que su mejor opción para liberarse era dejarse caer, así que giró la cabeza para evitar golpearse en la barbilla o la nuca, y comenzó a mover los hombros, resbalando poco a poco, hasta que se liberó, cayendo al piso de abajo.
+
+Apoyó primero los pies y cayó hacia atrás con la espalda, ahogando un quejido de dolor. Se quedó así, tumbado, mirando el hueco que antes ocupaba en las escaleras, durante unos segundos. Cerró los ojos, herido tanto físicamente como en su orgullo, como queriendo poner punto y final a la experiencia que acababa de vivir, y se levantó con la firme resolución de terminar de trepar y centrarse de nuevo en la misión que le había traído hasta allí. Silenciosamente volvió a recorrer la escalera hasta llegar al punto en el que antes se había caído. Midió de nuevo las distancias, cogió impulso, y con la gracia y agilidad que sabía que tenía, saltó hacia la pared, rebotó en un saliente que había encontrado justo antes de saltar y aterrizó, rodando hacia delante para amortiguar el sonido del impacto. Se irguió, examinando la estancia que se abría ante él, y cuando hubo comprobado que estaba solo, asintió para si mismo, como constatando que este último intento, y el anterior, eran los que definían sus habilidades. Se asomó por la ventana e hizo una seña a Shinju, que asintió desde la plaza.
+
+Kyn estaba apoyado contra la pared, con la mirada puesta en la plaza, alternando la vigilancia entre sus compañeros y las calles por las que en cualquier momento aparecería su objetivo, cuando un soldado salió del edificio de la Guardia que tenía en frente y bajó las escaleras hacia él.
+
+  - "Buenas tardes, ¿buscabas a alguien?"
+  - "No, qué va"
+  - "Y ¿qué haces entonces aquí, delante del edificio de la Guardia?"
+  - "Pues mira, ¿ves ese elfo que está delante de la fuente?" - dijo señalando a Shinju - "pues mi trabajo es protegerlo, y cada dos por tres se para delante de una estatua, un cuadro, un libro... lo que encuentre, y se lía a tomar notas en su libreta"
+  - "Ya veo..."
+  - "Pues lo que te digo, y no creas que es cosa de cinco minutos, ¿eh? Que me da tiempo a recorrerme la ciudad tranquilamente cada vez que se para"
+  - "Vaya, ¿entonces no te interesa unirte a la Guardia de Hollowfaust? Al verte aquí parado y..." - dijo mirando su espada - "pues pensé que habías venido por eso"
+  - "No, te lo agradezco, pero ahora mismo no necesito trabajo"
+  - "Está bien, pero si en algún momento te quedas sin nada que hacer, ven a vernos, ¿de acuerdo?"
+  - "Cuenta con ello. Oye, ya que estás aquí te pregunto... ¿qué es este edificio?" - dijo Kyn, señalando hacia la puerta de donde había salido el guardia
+  - "Es un almacen, aquí es donde guardamos el equipo. Es perfecto porque está lejos del centro, hay poco tránsito y de vez en cuando venimos buscando un poco de paz"
+  - "Entiendo... bueno, pues ha sido un placer conocerte, eh..."
+  - "**?**, y lo mismo digo. ¡Hasta la próxima!"
