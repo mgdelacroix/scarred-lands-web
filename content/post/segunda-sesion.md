@@ -1,6 +1,6 @@
 +++
 title = "Segunda Sesión"
-draft = true
+draft = false
 date = "2016-10-25T12:00:00Z"
 image = ""
 
